@@ -1,4 +1,4 @@
-## Olá eu sou Ibukun Chife Didier ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Olá, eu sou Ibukun Chife Didier ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 ## Feliz por te ver aqui! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=IbukunChife.IbukunChife)
