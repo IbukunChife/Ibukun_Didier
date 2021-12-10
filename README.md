@@ -6,14 +6,14 @@
 Sou programador Backend e Empreendedor digital. Amo programar, resolver problemas e
 a participar ao desenvolvimento das pessoas com meus conhecimentos.
 
-A verdadeira paixão é a *leitura* e ouvir *musica*.
+A verdadeira paixão é a *Leitura* e ouvir *Musica*.
 
 <img align="right" alt="GIF" src="https://github.com/IbukunChife/IbukunChife/blob/main/coding.gif?raw=true" width="308" height="218" />
 
 **Sobre minhas Atividades Atuais:**
 
-- 👨🏻‍💻 Atualmente estou a procurando um Trabalho HomeOfice ;
-- 🚀 Atualmente estou me capacitando no curso Ignite da [Rocketseat](https://app.rocketseat.com.br/me/ibukun-chife-didier-ibk_akaigen-1573552496);
+- 👨🏻‍💻 Atualmente, estou a procurando um Trabalho HomeOfice ;
+- 🚀 Atualmente, estou me capacitando no curso Ignite da [Rocketseat](https://app.rocketseat.com.br/me/ibukun-chife-didier-ibk_akaigen-1573552496);
 - 💬 Faça uma pergunta , Fico feliz de responder ou de ajudar;
 <!-- - 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com); -->
 - 📫 Como entrar em contato comigo: adjitchedidier1@gmail.com;
@@ -21,7 +21,6 @@ A verdadeira paixão é a *leitura* e ouvir *musica*.
 </br>
 
 ##
-
 <div align="center">
   <a href="https://github.com/IbukunChife">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IbukunChife&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
