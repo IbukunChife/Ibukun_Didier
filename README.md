@@ -1,4 +1,26 @@
-## Olá eu sou Ibukun Didier, programador Backend !
+### Olá eu sou Ibukun Chife Didier ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+
+### Feliz por te ver aqui! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=IbukunChife.IbukunChife)
+
+Sou programador Backend e Empreendedor digital. Amo programar, resolver problemas e
+a participar ao desenvolvimento das pessoas com meus conhecimentos.
+
+A verdadeira paixão é a *leitura* e ouvir *musica*.
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+
+**Sobre minhas Atividades Atuais:**
+
+- 👨🏻‍💻 Atualmente estou a procurando um Trabalho HomeOfice ;
+- 🚀 Atualmente estou me capacitando no curso Ignite da [Rocketseat](https://app.rocketseat.com.br/me/ibukun-chife-didier-ibk_akaigen-1573552496);
+- 💬 Faça uma pergunta , Fico feliz de responder ou de ajudar;
+<!-- - 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com); -->
+- 📫 How to reach me: adjitchedidier1@gmail.com;
+<!-- - 📝 [Curriculo](). -->
+
+</br>
+
 
 <div align="center">
   <a href="https://github.com/IbukunChife">
@@ -24,7 +46,7 @@
   <img align="center" alt="Ibk-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="Ibk-Jupiter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
     
-  <img align="right" alt="Ibk-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/774654156647563316/918707215844646952/image0.jpg">
+  <img align="right" alt="Ibk-pic" height="100" style="border-radius:50%;" src="https://cdn.discordapp.com/attachments/774654156647563316/918707215844646952/image0.jpg">
 </div>
 
 ##
