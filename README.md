@@ -14,7 +14,7 @@ A verdadeira paixão é a *Leitura* e ouvir *Musica*.
 
 - 👨🏻‍💻 Atualmente, estou a procurando um Trabalho HomeOfice ;
 - 🚀 Atualmente, estou me capacitando no curso Ignite da [Rocketseat](https://app.rocketseat.com.br/me/ibukun-chife-didier-ibk_akaigen-1573552496);
-- 💬 Faça uma pergunta , Fico feliz de responder ou de ajudar;
+- 💬 Faça uma pergunta, Fico feliz de responder ou de ajudar;
 <!-- - 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com); -->
 - 📫 Como entrar em contato comigo: adjitchedidier1@gmail.com;
 <!-- - 📝 [Curriculo](). -->
