@@ -1,14 +1,14 @@
-### Olá eu sou Ibukun Chife Didier ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Olá eu sou Ibukun Chife Didier ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-### Feliz por te ver aqui! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=IbukunChife.IbukunChife)
+## Feliz por te ver aqui! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=IbukunChife.IbukunChife)
 
 Sou programador Backend e Empreendedor digital. Amo programar, resolver problemas e
 a participar ao desenvolvimento das pessoas com meus conhecimentos.
 
 A verdadeira paixão é a *leitura* e ouvir *musica*.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/IbukunChife/IbukunChife/blob/main/coding.gif?raw=true" width="308" height="218" />
 
 **Sobre minhas Atividades Atuais:**
 
@@ -16,11 +16,11 @@ A verdadeira paixão é a *leitura* e ouvir *musica*.
 - 🚀 Atualmente estou me capacitando no curso Ignite da [Rocketseat](https://app.rocketseat.com.br/me/ibukun-chife-didier-ibk_akaigen-1573552496);
 - 💬 Faça uma pergunta , Fico feliz de responder ou de ajudar;
 <!-- - 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com); -->
-- 📫 How to reach me: adjitchedidier1@gmail.com;
+- 📫 Como entrar em contato comigo: adjitchedidier1@gmail.com;
 <!-- - 📝 [Curriculo](). -->
-
 </br>
 
+##
 
 <div align="center">
   <a href="https://github.com/IbukunChife">
