@@ -4,7 +4,7 @@
 ## Feliz por te ver aqui! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=IbukunChife.IbukunChife)
 
 Sou programador Backend e Empreendedor digital. Amo programar, resolver problemas e
-a participar ao desenvolvimento das pessoas com meus conhecimentos.
+participar ao desenvolvimento das pessoas com meus conhecimentos.
 
 A verdadeira paixão é a *Leitura* e ouvir *Musica*.
 
