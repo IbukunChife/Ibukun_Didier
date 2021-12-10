@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/IbukunChife">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IbukunChife&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbukunChife&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IbukunChife&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbukunChife&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Ibk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,23 +24,18 @@
   <img align="center" alt="Ibk-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="Ibk-Jupiter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
     
-<!--    
-    
-    
-  <img align="right" alt="Ibk-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
+  <img align="right" alt="Ibk-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/774654156647563316/918707215844646952/image0.jpg">
 </div>
 
 ##
 
 <div>
    <a href="https://t.me/Ibk_Akaigen" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:adjitchedidier1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://app.rocketseat.com.br/me/ibukun-chife-didier-ibk_akaigen-1573552496" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.linkedin.com/in/ibukun-chife-didier-748744bb/" target="_blank"><img src="https://img.shields.io/badge/Rockseat-https%3A%2F%2Fapp.rocketseat.com.br%2Fme%2Fibukun--chife--didier--ibk__akaigen--1573552496-yellow" target="_blank"></a> 
+   <a href = "mailto:adjitchedidier1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/ibukun-chife-didier-748744bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://app.rocketseat.com.br/me/ibukun-chife-didier-ibk_akaigen-1573552496" target="_blank"><img src="https://img.shields.io/badge/-Rocketseat-blueviolet" target="_blank"></a> 
   
-  
- 
-  ![Snake animation](https://github.com/IbukunChife/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/IbukunChife/Ibukun_Didier/blob/output/github-contribution-grid-snake.svg)
   
 </div>
   
