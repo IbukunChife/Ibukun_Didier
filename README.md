@@ -27,7 +27,7 @@ A verdadeira paixão é a *Leitura* e ouvir *Musica*.
 
 ## Languages and Tools:
 [![Ibukun GitHub stats](https://github-readme-stats.vercel.app/api?username=IbukunChife)](https://github.com/IbukunChife/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbukunChife&layout=compact)](https://github.com/IbukunChife/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbukunChife&layout=compact&langs_count=10)](https://github.com/IbukunChife/github-readme-stats)
 
 
 ##
