@@ -20,22 +20,15 @@ A verdadeira paixão é a *Leitura* e ouvir *Musica*.
 <!-- - 📝 [Curriculo](). -->
 </br>
 
-<!-- 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ibukunchife&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p> -->
 
-## Languages and Tools:
-[![Ibukun GitHub stats](https://github-readme-stats.vercel.app/api?username=IbukunChife)](https://github.com/IbukunChife/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbukunChife&layout=compact&langs_count=10)](https://github.com/IbukunChife/github-readme-stats)
-
-
-##
+## Linguagens e Ferramentas:
 <div align="center">
   <a href="https://github.com/IbukunChife">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IbukunChife&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbukunChife&layout=compact&langs_count=10&theme=dark"/>
 </div>
+  
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Ibk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ibk-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
