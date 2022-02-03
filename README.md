@@ -25,6 +25,11 @@ A verdadeira paixão é a *Leitura* e ouvir *Musica*.
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ibukunchife&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p> -->
 
+## Languages and Tools:
+[![Ibukun GitHub stats](https://github-readme-stats.vercel.app/api?username=IbukunChife)](https://github.com/IbukunChife/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbukunChife&layout=compact)](https://github.com/IbukunChife/github-readme-stats)
+
+
 ##
 <div align="center">
   <a href="https://github.com/IbukunChife">
