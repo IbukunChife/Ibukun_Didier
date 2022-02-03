@@ -20,10 +20,10 @@ A verdadeira paixão é a *Leitura* e ouvir *Musica*.
 <!-- - 📝 [Curriculo](). -->
 </br>
 
-
+<!-- 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ibukunchife&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+</p> -->
 
 ##
 <div align="center">
